@@ -44,7 +44,7 @@
 ---
 ### :fire: My Stats :
 ![CodeWars Streak](https://www.codewars.com/users/vladislav-borejsho/badges/large?theme=light")  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vladislav-borejsho&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vladislav-borejsho&theme=dark)](https://git.io/streak-stats)  
 
 ---
 <!--
