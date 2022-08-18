@@ -22,10 +22,11 @@
 </div> 
 
 ---
-### :man_technologist: About Me :
-- :telescope: I am currently **learning JS**.
-- :seedling: I live and enjoy life!
-- :zap: I see myself as an in-demand IT specialist.
+### :label: About Me :
+- :bookmark_tabs: My<a href="https://vladislav-borejsho.github.io/rsschool-cv/" > portfolio </a>
+- :man_student: I am currently **learning JS**.
+- :sunny: I live and enjoy life!
+- :man_technologist: I see myself as an in-demand IT specialist.
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -48,15 +49,4 @@
 ---
 <!--
 **vladislav-borejsho/vladislav-borejsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
