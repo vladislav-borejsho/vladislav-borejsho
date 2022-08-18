@@ -44,7 +44,7 @@
 ### :fire: My Stats :
 ![CodeWars Streak](https://www.codewars.com/users/vladislav-borejsho/badges/large?theme=light")  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vladislav-borejsho&theme=tokyonight)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav-borejsho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 <!--
 **vladislav-borejsho/vladislav-borejsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
