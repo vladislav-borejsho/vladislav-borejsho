@@ -23,7 +23,7 @@
 
 ---
 ### :man_technologist: About Me :
-- :telescope: I am currently learning JS.
+- :telescope: I am currently **learning JS**.
 - :seedling: I live and enjoy life!
 - :zap: I see myself as an in-demand IT specialist.
 ---
