@@ -25,7 +25,7 @@
 ### :label: About Me :
 - :bookmark_tabs: My<a href="https://vladislav-borejsho.github.io/rsschool-cv/" > portfolio </a>
 - :man_student: I am currently **learning JS**.
-- :sunny: I live and enjoy life!
+- :sunny: I live and **enjoy life!**
 - :man_technologist: I see myself as an in-demand IT specialist.
 ---
 ### :hammer_and_wrench: Languages and Tools :
