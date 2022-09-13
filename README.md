@@ -43,6 +43,6 @@
 
 ---
 ### :fire: My Stats :
-![CodeWars Streak](https://www.codewars.com/users/vladislav-borejsho/badges/large?theme=light")  
+![CodeWars Streak](https://www.codewars.com/users/rsschool_04ed7457ab61eed6/badges/micro?theme=light")  
 ![image](https://user-images.githubusercontent.com/102096429/188679622-2fc36ad2-4f90-4f78-8d6e-e2ae7745e8da.png)
 <p align="center"><a href="https://app.rs.school/certificate/6m2w9v31">Link on certificate </a></p>
